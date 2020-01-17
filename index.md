@@ -153,7 +153,7 @@ VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423
 </div>
 
 {% include syllabus_entry %}
-<-- 1/30/20 -->
+<!-- 1/30/20 -->
 ## Great Debate 2: Threads vs Events
 
 A critical element of all operating systems is how to handle concurrency.  Fundamentally
@@ -167,8 +167,10 @@ evolved their views.  You'll want to read or at skim the optional references, bu
 need to report on them.
 
 <div class="reading">
-*[SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.sosp.org/2001/papers/welsh.pdf) M. Welsh, et al. SOSP 2001.
+<div class="required_reading" markdown="1">
+*[SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.sosp.org/2001/papers/welsh.pdf) M. Welsh, et al.SOSP 2001.
 *[Capriccio: Scalable Threads for Internet Services](http://capriccio.cs.berkeley.edu/pubs/capriccio-sosp-2003.pdf) R. von Behren, et al, SOSP 2003
+
 <div class="optional_reading" markdown="1">
 *[On the Duality of Operating System Structures](https://drive.google.com/drive/u/0/folders/1zM0S1BrUv_G3IndzXSWNTkQ1rnR7mf1x) Lauer anbd Needham, SOSP 1978
 *Why Threads Are A Bad Idea (for most purposes)]() John Osterhout, presentation to

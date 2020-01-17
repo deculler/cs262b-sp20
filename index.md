@@ -20,6 +20,36 @@ layout: default
 <!-- This is the dates for all the lectures -->
 {% capture dates %}
 1/21/20
+1/23/20
+1/28/20
+1/30/20
+2/4/20
+2/6/20
+2/11/20
+2/13/20
+2/18/20
+2/20/20
+2/25/20
+2/27/20
+3/3/20
+3/5/20
+3/10/20
+3/12/20
+3/17/20
+3/19/20
+3/24/20
+3/26/20
+3/31/20
+4/2/20
+4/7/20
+4/9/20
+4/14/20
+4/16/20
+4/21/20
+4/23/20
+4/28/20
+5/5/20
+5/7/20
 {% endcapture %}
 {% assign dates = dates | split: " " %}
 
@@ -51,6 +81,216 @@ This meeting will be overview of the class and introduction of class members.
 * [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
 * Timothy Roscoe's [writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) will also help you in the reviewing process.
 
+</div>
+</div>
+
+{% include syllabus_entry %}
+1/23/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+1/28/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+1/30/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/4/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/6/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/11/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/13/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/18/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/20/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/25/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+2/27/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/3/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/5/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/10/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/12/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/17/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/19/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/24/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/26/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+3/31/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/2/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/7/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/9/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/14/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/16/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/21/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/23/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+4/28/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+5/5/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+5/7/20
+<div class="reading">
+<div class="optional_reading" markdown="1">
 </div>
 </div>
 

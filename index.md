@@ -143,6 +143,7 @@ papers - extensible kernels and virtual machines.
 * [Exterminate All Operating System Abstractions](https://people.eecs.berkeley.edu/~culler/cs262b/papers/hotos-exokernel.pdf) D. Engler and M. F. Kaashoekm, HotOS 1995
 * [Extensible Kernels are Leading OS Research Astray](https://drive.google.com/open?id=1AR5itsgFggt9zU1qLCQYboiPcE4RQca5) Druschel et al (HotOS-VI '97)
 * [Hype and Virtue](https://www.usenix.org/legacy/events/hotos07/tech/full_papers/roscoe/roscoe.pdf) T. Roscoe, et al., HotOS 2007
+</div>
 
 <div class="optional_reading" markdown="1">
 * [Xen and the Art of Virtualization](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) Xen and the Art of Virtualization, Barham, et al. ACM SIGOPS Operating Systems ReviewVol. 37, No. 5.
@@ -168,14 +169,15 @@ need to report on them.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-*[SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.sosp.org/2001/papers/welsh.pdf) M. Welsh, et al.SOSP 2001.
-*[Capriccio: Scalable Threads for Internet Services](http://capriccio.cs.berkeley.edu/pubs/capriccio-sosp-2003.pdf) R. von Behren, et al, SOSP 2003
+* [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.sosp.org/2001/papers/welsh.pdf) M. Welsh, et al.SOSP 2001.
+* [Capriccio: Scalable Threads for Internet Services](http://capriccio.cs.berkeley.edu/pubs/capriccio-sosp-2003.pdf) R. von Behren, et al, SOSP 2003
+</div>
 
 <div class="optional_reading" markdown="1">
-*[On the Duality of Operating System Structures](https://drive.google.com/drive/u/0/folders/1zM0S1BrUv_G3IndzXSWNTkQ1rnR7mf1x) Lauer anbd Needham, SOSP 1978
-*Why Threads Are A Bad Idea (for most purposes)]() John Osterhout, presentation to
+* [On the Duality of Operating System Structures](https://drive.google.com/drive/u/0/folders/1zM0S1BrUv_G3IndzXSWNTkQ1rnR7mf1x) Lauer anbd Needham, SOSP 1978
+* [Why Threads Are A Bad Idea (for most purposes)](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf) John Osterhout, presentation to
 1996 USENIX Technical Conference
-*[System Architecture Directions for Networked Sensors](https://pdos.csail.mit.edu/archive/6.097/readings/tinyos.pdf) J. Hill et al, ASPLOS 2000
+* [System Architecture Directions for Networked Sensors](https://pdos.csail.mit.edu/archive/6.097/readings/tinyos.pdf) J. Hill et al, ASPLOS 2000
 </div>
 </div>
 
@@ -278,18 +280,12 @@ need to report on them.
 </div>
 
 {% include syllabus_entry %}
-3/24/20
-<div class="reading">
-<div class="optional_reading" markdown="1">
-</div>
-</div>
+<!-- 3/24/20 -->
+## *Spring Break*
 
 {% include syllabus_entry %}
-3/26/20
-<div class="reading">
-<div class="optional_reading" markdown="1">
-</div>
-</div>
+<!-- 3/26/20 -->
+## *Spring Break*
 
 {% include syllabus_entry %}
 3/31/20

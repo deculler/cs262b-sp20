@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # Advanced Topics in Computer Systems (Spring 2020)
 
 * **When**: *Tuesdays and Thursdays from 12:30 to 2:00*
@@ -12,8 +11,45 @@ layout: default
 
 ## Course Description
 
+*Catalog Description:* Continued graduate survey of large-scale systems for managing information and computation. Topics include basic performance measurement; extensibility, with attention to protection, security, and management of abstract data types; index structures, including support for concurrency and recovery; parallelism, including parallel architectures, query processing and scheduling; distributed data management, including distributed and mobile file systems and databases; distributed caching; large-scale data analysis and search. Homework assignments, exam, and term paper or project required.
+
+"Informal Description:* It provides a PhD-level study of
+groundbreaking and influential research across the spectrum of
+operating systems, parallel and distributed systems, networked systems, storage
+systems, and security across the tiers from global scale, cloud,
+institutional, personal, mobile, and embedded.  It is intended to
+directly support student preparation for a dissertation in systems
+areas, but will also support completion of the MS post cs262a.
+
+Particular emphasis is placed on understanding and participating in
+the advancement of formative ideas in this rapidly evolving field.  We
+will read many of the highly recognized or highly cited papers over
+the past 20 years, including several that were rejected one or more
+times before being accepted and going on to be extremely highly
+aclaimed, e.g., receiving test-of-time awards.  We will
+also look at foundational works that laid the path for these advances
+decades earlier, before the web completely reshaped systems research.
+We will use OSDI 2020 as an focusing opportunity and carry out a
+mock-PC within the class on projects as if they were being submitted
+to the conference.  (The timing of the conference will not permit a
+shadow PC as it did in 2009, when this course was last offered.)
+Discussion will be moderated so all voices can be heard.
 
 ## Course Format
+
+Several of the class meetings will take the form of "a great debate",
+with readings challenging the status quo or laying out a fundamental
+trade-off in approach.  Class session will have a debate format to
+develop experience with articulating and weighing broad ideas.  The
+other meetings will focus on a particular technical advancement and
+each paper will have three students presenting specific perspectives:
+the key advancement of the work, the methodology by which the results
+are established, and limitations to the applicability of the results.
+
+Each class meeting will center on, typically, two readings assigned prior,
+with students assigned to the roles above.  A short report on the papers
+will be due at 8am of the day of class, so the instructor can read those
+and pull out important observations or gaps prior to class discussion.
 
 ## Course Syllabus
 
@@ -53,7 +89,9 @@ layout: default
 {% endcapture %}
 {% assign dates = dates | split: " " %}
 
-This is a tentative schedule.  Specific readings are subject to change as new material is published.
+This is a tentative schedule.  
+Specific readings are subject to change as student interests are
+better understood.
 
 <a href="#today"> Jump to Today </a>
 
@@ -85,16 +123,30 @@ This meeting will be overview of the class and introduction of class members.
 </div>
 
 {% include syllabus_entry %}
-1/23/20
-<div class="reading">
-<div class="optional_reading" markdown="1">
-</div>
-</div>
+#1/23/20
+## Student 3-minute "My Systems Research" presentations.
+Each class member will offer a 3-slide presentation of
+their current research focus.
 
 {% include syllabus_entry %}
-1/28/20
+#1/28/20
+## Great Debate 1: OS Abstractions
+A fundamental question in systems is how system software creates
+effective abstractions enabling protected access to shared hardware
+resources.  We will have two debates centered on HotOS
+papers - extensible kernels and virtual machines.
+
 <div class="reading">
+<div class="required_reading" markdown="1">
+* [Exterminate All Operating System Abstractions](https://people.eecs.berkeley.edu/~culler/cs262b/papers/hotos-exokernel.pdf) D. Engler and M. F. Kaashoekm, HotOS 1995
+* [Extensible Kernels are Leading OS Research Astray](https://drive.google.com/open?id=1AR5itsgFggt9zU1qLCQYboiPcE4RQca5) Druschel et al (HotOS-VI '97)
+* [Hype and Virtue](https://www.usenix.org/legacy/events/hotos07/tech/full_papers/roscoe/roscoe.pdf) T. Roscoe, et al., HotOS 2007
 <div class="optional_reading" markdown="1">
+* [Xen and the Art of Virtualization](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) Xen and the Art of Virtualization, Barham, et al. ACM SIGOPS Operating Systems ReviewVol. 37, No. 5.
+* [Bringing Virtualization to the x86 Architecture with the Original
+VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.4009&rep=rep1&type=pdf) E. Bugnion, et al, ACM Transactions on Computer Systems (TOCS), November 2012.
+* [kvm: the Linus Virtual Machine Monitor](https://www.kernel.org/doc/ols/2007/ols2007v1-pages-225-230.pdf), Kivity et al, Proc. of the Linux Symposium, 2007.
+
 </div>
 </div>
 

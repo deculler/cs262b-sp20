@@ -3,38 +3,19 @@ layout: default
 ---
 
 
-# Machine Learning Systems (Fall 2019)
+# CS262B Advanced Topics in Computer Sysxtems (Spring 2020)
 
-* **When**: *Mondays and Fridays from 2:00 to 3:30*
+* **When**: *Tuesdays and Thursdays from 12:30 to 2:00*
 * **Where**: *Soda 310*
-* **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
-   * **Office Hours:** Wednesdays from 4:00 to 5:00 in 773 Soda Hall.
-* **Announcements**: [Piazza](https://piazza.com/class/jz1seb32ovq4p2)
-* **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1EEf58o80eVCgPZmj71oBYRBcSVWsr7OMn9rOx6X9bnY/edit?usp=sharing) Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
-* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-fa19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-fa19/blob/master/index.md) file.
-
-
+* **Instructor**: [David E Culler](https://eecs.berkeley.edu/~culler)
+   * **Office Hours:** Tuesdays and Thursdays from 2:00 to :00 in 783 Soda Hall.
 
 ## Course Description
 
-The recent success of AI has been in large part due in part to advances in hardware and software systems. These systems have enabled training increasingly complex models on ever larger datasets. In the process, these systems have also simplified model development, enabling the rapid growth in the machine learning community. These new hardware and software systems include a new generation of GPUs and hardware accelerators (e.g., TPU and Nervana), open source frameworks such as Theano, TensorFlow, PyTorch, MXNet, Apache Spark, Clipper, Horovod, and Ray, and a myriad of systems deployed internally at companies just to name a few. 
-At the same time, we are witnessing a flurry of ML/RL applications to improve hardware and system designs, job scheduling, program synthesis, and circuit layouts.  
 
-In this course, we will describe the latest trends in systems designs to better support the next generation of AI applications, and applications of AI to optimize the architecture and the performance of systems. 
-The format of this course will be a mix of lectures, seminar-style discussions, and student presentations. 
-Students will be responsible for paper readings, and completing a hands-on project. 
-For projects, we will strongly encourage teams that contains both AI and systems students.
-
-
-
-## New Course Format
-
-A previous version of this course was offered in <a href="https://ucbrise.github.io/cs294-ai-sys-sp19/#today">Spring 2019</a>.  The format of this second offering is slightly different.  Each week will cover a different research area in AI-Systems.  The Monday lecture will be presented by Professor Gonzalez and will cover the context of the topic as well as a high-level overview of the reading for the week.  The Friday lecture will be organized around a mini program committee meeting for the weeks readings.  Students will be required to submit detailed reviews for a subset of the papers and lead the paper review discussions.  The goal of this new format is to both build a mastery of the material and also to develop a deeper understanding of how to evaluate and review research and hopefully provide insight into how to write better papers. 
-
+## Course Format
 
 ## Course Syllabus
-
-
 
 <!-- This is the dates for all the lectures -->
 {% capture dates %}

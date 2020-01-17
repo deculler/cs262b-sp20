@@ -339,6 +339,8 @@ How to be a good reviewer
 </div>
 </div>
 
+{% include syllabus_entry %}
+
 </td>
 </tr>
 </tbody>

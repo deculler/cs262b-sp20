@@ -105,11 +105,11 @@ better understood.
 </thead>
 <tbody>
 
-
 {% include syllabus_entry %}
 ## Introduction and Course Overview
 
 This meeting will be overview of the class and introduction of class members.
+Time permitting, we will talk about system performance.
 
 {% include syllabus_entry %}
 ## Student 3-minute "My Systems Research" presentations.
@@ -334,12 +334,7 @@ How to be a good reviewer
 
 {% include syllabus_entry %}
 5/7/20
-<div class="reading">
-<div class="optional_reading" markdown="1">
-</div>
-</div>
-
-{% include syllabus_entry %}
+## RR 
 
 </td>
 </tr>
@@ -350,13 +345,14 @@ How to be a good reviewer
 
 Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
 
-
 ## Grading
 
 Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class.
 * **Projects:** _60%_
 * **Weekly Summaries:** _20%_
 * **Class Participation:** _20%_
+
+
 
 <script type="text/javascript">
 

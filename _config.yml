@@ -1,18 +1,16 @@
 # theme: jekyll-theme-leap-day
 
 # Site settings
-title: AI-Sys Fa19
-email: jegonzal@berkeley.edu 
+title: CS262B Sp20
+email: culler@berkeley.edu 
 author:
-description: AI-Sys Fa19 Course Website
+description: CS262B Sp20 Course Website
 
 
-baseurl: /cs294-ai-sys-fa19
+baseurl: /cs262b-sp20
 
 # Build settings
 # permalink: :title/
 sass:
   sass_dir: css
 
-
-theme: jekyll-theme-slate

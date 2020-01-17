@@ -236,11 +236,23 @@ An idea whose time has come and gone](https://research.google/pubs/pub48030/) A.
 </div>
 
 {% include syllabus_entry %}
-2/13/20
+<!-- 2/13/20 -->
+## Distributed Consensus in Practice
+
+Paxos has dominated the vernacular of distributed consensus.  Not only does it have
+its own checked history of whether it warranted publication, but the efforts to
+develop a more understandable and implementable replacement (Raft) were rejected
+three times before being published.  These readings overlap with CS262A; we will
+take the opportunity to explore overcoming rejection in the pubication process.
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [In Search of an Understandable Consensus Algorithm](https://www.usenix.org/node/184041) D. Ongaro and J. Ousterhout, USENIX ATC 2014
+* [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) M. Burrows, OSDI 2006
 </div>
 <div class="optional_reading" markdown="1">
+* [The Part-Time Parliment](https://www.microsoft.com/en-us/research/publication/part-time-parliament/) Leslie Lamport (Blog + ACM ToC 1998) ACM SIGOPS Hall of Fame Award 2012.
+* [CS262A Treatment](https://people.eecs.berkeley.edu/~kubitron/cs262/lectures/lec18-Paxos-Raft.pdf)
 </div>
 </div>
 

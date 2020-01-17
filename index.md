@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# CS262B Advanced Topics in Computer Sysxtems (Spring 2020)
+# Advanced Topics in Computer Systems (Spring 2020)
 
 * **When**: *Tuesdays and Thursdays from 12:30 to 2:00*
 * **Where**: *Soda 310*

@@ -218,11 +218,20 @@ new systems languages, e.g, Go and Rust.
 </div>
 
 {% include syllabus_entry %}
-2/11/20
+<!-- 2/11/20 -->
+## Scan on KV - MapReduce
+
+As cluster computing took off post-search engine, Scan algorithms were
+rediscovered over a new storage model while handling unreliability.
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) J. Deand and S. Ghemawat, OSDI 2004
+* [Fast key-value stores:
+An idea whose time has come and gone](https://research.google/pubs/pub48030/) A. Adya, et al., HotOS 2019.
 </div>
 <div class="optional_reading" markdown="1">
+* [Scans as Primitive Parallel Operations](https://people.eecs.berkeley.edu/~culler/cs262b/papers/scan89.pdf) G. Belloch, IEEE ToC, 1989.
 </div>
 </div>
 

@@ -153,9 +153,27 @@ VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423
 </div>
 
 {% include syllabus_entry %}
-1/30/20
+<-- 1/30/20 -->
+## Great Debate 2: Threads vs Events
+
+A critical element of all operating systems is how to handle concurrency.  Fundamentally
+there have been two camps, threads vs events.  Needham tried to put the questiojn
+to rest in 1978 with the Duality paper.  But graphical user interfaces and then
+internet services and wireless embedded networks brought it back to the fore.  The
+SOSP 2001 program committee is debated whether to reject the SEDA paper or to make
+it a keynote.  The compromise was to accept it and have Roger Needham deliver a
+keynote adjacent to it.  But two years later, some of the SEDA authors had
+evolved their views.  You'll want to read or at skim the optional references, but you don't
+need to report on them.
+
 <div class="reading">
+*[SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.sosp.org/2001/papers/welsh.pdf) M. Welsh, et al. SOSP 2001.
+*[Capriccio: Scalable Threads for Internet Services](http://capriccio.cs.berkeley.edu/pubs/capriccio-sosp-2003.pdf) R. von Behren, et al, SOSP 2003
 <div class="optional_reading" markdown="1">
+*[On the Duality of Operating System Structures](https://drive.google.com/drive/u/0/folders/1zM0S1BrUv_G3IndzXSWNTkQ1rnR7mf1x) Lauer anbd Needham, SOSP 1978
+*Why Threads Are A Bad Idea (for most purposes)]() John Osterhout, presentation to
+1996 USENIX Technical Conference
+*[System Architecture Directions for Networked Sensors](https://pdos.csail.mit.edu/archive/6.097/readings/tinyos.pdf) J. Hill et al, ASPLOS 2000
 </div>
 </div>
 

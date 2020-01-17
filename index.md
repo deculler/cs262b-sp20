@@ -335,9 +335,9 @@ How to be a good reviewer
 {% include syllabus_entry %}
 5/7/20
 ## RR 
+<div class="reading">
+</div>
 
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -414,5 +414,10 @@ $(".details").each(function(ind, elem) {
    })
 
 </script>
+
+
+
+
+
 
 

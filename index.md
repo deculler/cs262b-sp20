@@ -51,6 +51,18 @@ with students assigned to the roles above.  A short report on the papers
 will be due at 8am of the day of class, so the instructor can read those
 and pull out important observations or gaps prior to class discussion.
 
+## Projects
+
+Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
+
+## Grading
+
+Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class.
+
+* **Projects:** _60%_
+* **Weekly Summaries:** _20%_
+* **Class Participation:** _20%_
+
 ## Course Syllabus
 
 <!-- This is the dates for all the lectures -->
@@ -333,33 +345,6 @@ Work on project
 
 
 
-
-
-
-
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-## Projects
-
-Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
-
-## Grading
-
-Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class.
-
-* **Projects:** _60%_
-* **Weekly Summaries:** _20%_
-* **Class Participation:** _20%_
-
-
-
 <script type="text/javascript">
 
 var current_date = new Date();
@@ -420,10 +405,3 @@ $(".details").each(function(ind, elem) {
    })
 
 </script>
-
-
-
-
-
-
-

@@ -113,12 +113,14 @@ Time permitting, we will talk about system performance.
 
 {% include syllabus_entry %}
 ## Student 3-minute "My Systems Research" presentations.
+
 Each class member will offer a 3-slide presentation of
 their current research focus.
 
 {% include syllabus_entry %}
 <!-- 1/28/20 -->
 ## Great Debate 1: OS Abstractions
+
 A fundamental question in systems is how system software creates
 effective abstractions enabling protected access to shared hardware
 resources.  We will have two debates centered on HotOS
@@ -129,12 +131,12 @@ papers - extensible kernels and virtual machines.
 * [Exterminate All Operating System Abstractions](https://people.eecs.berkeley.edu/~culler/cs262b/papers/hotos-exokernel.pdf) D. Engler and M. F. Kaashoekm, HotOS 1995
 * [Extensible Kernels are Leading OS Research Astray](https://drive.google.com/open?id=1AR5itsgFggt9zU1qLCQYboiPcE4RQca5) Druschel et al (HotOS-VI '97)
 * [Hype and Virtue](https://www.usenix.org/legacy/events/hotos07/tech/full_papers/roscoe/roscoe.pdf) T. Roscoe, et al., HotOS 2007
+
 <div class="optional_reading" markdown="1">
 * [Xen and the Art of Virtualization](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) Xen and the Art of Virtualization, Barham, et al. ACM SIGOPS Operating Systems ReviewVol. 37, No. 5.
 * [Bringing Virtualization to the x86 Architecture with the Original
 VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.4009&rep=rep1&type=pdf) E. Bugnion, et al, ACM Transactions on Computer Systems (TOCS), November 2012.
 * [kvm: the Linus Virtual Machine Monitor](https://www.kernel.org/doc/ols/2007/ols2007v1-pages-225-230.pdf), Kivity et al, Proc. of the Linux Symposium, 2007.
-
 </div>
 </div>
 
@@ -308,17 +310,7 @@ VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423
 
 {% include syllabus_entry %}
 ## How to be a good reviewer
-
 4/23/20
-
-<div class="reading">
-<div class="optional_reading" markdown="1">
-
-* [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
-* Timothy Roscoe's [writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) will also help you in the reviewing process.
-
-</div>
-</div>
 
 {% include syllabus_entry %}
 4/28/20
@@ -332,18 +324,27 @@ VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423
 ## RR (OSDI Abstract due)
 
 {% include syllabus_entry %}
-5/7/20
-## RR 
+## 5/7/20 RR 
 
 <h3> xstuff
 </h3>
 
 Work on project
 
+
+
+
+
+
+
 </td>
 </tr>
 </tbody>
 </table>
+
+
+
+
 
 ## Projects
 
@@ -352,6 +353,7 @@ Detailed candidate project descriptions will be posted shortly.  However, studen
 ## Grading
 
 Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class.
+
 * **Projects:** _60%_
 * **Weekly Summaries:** _20%_
 * **Class Participation:** _20%_

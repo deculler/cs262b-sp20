@@ -257,11 +257,21 @@ take the opportunity to explore overcoming rejection in the pubication process.
 </div>
 
 {% include syllabus_entry %}
-2/18/20
+## Emergence of Planetary Scale Computing
+
+As clusters, content-distribution networks (e.g., Akamai), and [PVM](https://www.csm.ornl.gov/pvm/) took hold, but the Cloud gaining massive scale, global
+geographic scale, and general usage was economically inconceivable,
+visionary explorations of planetary scale computing emerged.  The WebOS paper
+was rejected four times, but invited by a PC chair.  Planetlab faced distainful reviews,
+but recieved multiple test-of-time awards a decade later.  The Grid remained
+largely outside the systems research community.
+
+<!-- 2/18/20 -->
 <div class="reading">
 <div class="required_reading" markdown="1">
-</div>
-<div class="optional_reading" markdown="1">
+* [WebOS: Operating system services for wide area applications](https://www.researchgate.net/profile/Amin_Vahdat2/publication/3765693_WebOS_Operating_System_Services_for_Wide_Area_Applications/links/0f31753872b04b5051000000/WebOS-Operating-System-Services-for-Wide-Area-Applications.pdf) A. Vahdat, et al., HPCA 1998
+* [The Anatomy of the Grid: Enabling Scalable Virtual Organizations](https://arxiv.org/pdf/cs/0103025.pdf) International Journal of High Performance Computing Applications, 2001
+* [Operating System Support for Planetary-Scale Network Services](https://www.usenix.org/legacy/publications/library/proceedings/nsdi04/tech/full_papers/bavier/bavier.pdf) A. Bavier, et al, NSDI 2004
 </div>
 </div>
 

@@ -307,8 +307,10 @@ VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423
 </div>
 
 {% include syllabus_entry %}
-How to be a good reviewer
-#4/23/20
+## How to be a good reviewer
+
+4/23/20
+
 <div class="reading">
 <div class="optional_reading" markdown="1">
 
@@ -327,17 +329,19 @@ How to be a good reviewer
 
 {% include syllabus_entry %}
 5/5/20
-<div class="reading">
-<div class="optional_reading" markdown="1">
-</div>
-</div>
+## RR (OSDI Abstract due)
 
 {% include syllabus_entry %}
 5/7/20
 ## RR 
-<div class="reading">
-</div>
 
+<h3> xstuff
+</h3>
+
+Work on project
+
+</td>
+</tr>
 </tbody>
 </table>
 

@@ -173,19 +173,47 @@ need to report on them.
 
 {% include syllabus_entry %}
 <!-- 2/4/20 -->
+## Debate 3: Multicore OS
+
+With the end of clock scaling we have experienced a "fourth wave" of
+multiprocessor design, MultiCore, where wee can expect the number of
+cores per processor to grow rapidly as chip density continues to grow.
+As the multi-micrioprocessor revolution of the 80's drove 
+BSD, this presents basic questions of scaling Linux vs rethinking
+the design, but now where cloud-based services are the driving workload,
+behooving us to revisit the contract between system and user level,
+represented in the 90's by Scheduler Activations.
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [An Analysis of Linux Scalability to Many Cores](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf) Boyd-Wickizer, et al., OSDI 2010
+* [The Multikernel: A new OS architecture for scalable multicore systems](https://www.sigops.org/s/conferences/sosp/2009/papers/baumann-sosp09.pdf) A. Baumann, et al, SOSP 2009.
 </div>
 <div class="optional_reading" markdown="1">
+* [Scheduler activations: effective kernel support for the user-level management of parallelism](https://homes.cs.washington.edu/~tom/pubs/sched_act.pdf) T. Andersen, et al, SOSP 91 and ACM ToC 92.
 </div>
 </div>
 
 {% include syllabus_entry %}
-2/6/20
+<!-- 2/6/20 -->
+Debate: HLL role is OS Design
+
+Throughout the histiory of computing, operating systems have represented the
+most demanding sort of complex, concurrency intensive, high-reliability software.
+This has given rise to numerous new language designs, and new languages have
+offered the potential to finally leap beyond C as the implementation language.
+Recent years have seen a renaissance in programming language design, including
+new systems languages, e.g, Go and Rust.
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Multiprogramming a 64 kB Computer Safely and Efficiently](https://sing.stanford.edu/site/publications/levy17-tock.pdf) A. Levy, et al. SOSP 2017.
+* [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) C. Cutler, et al. OSDI 2018.
+
 </div>
 <div class="optional_reading" markdown="1">
+* [Hydra: The Kernel of a Multiprocessor Operating System](https://research.cs.wisc.edu/areas/os/Qual/papers/hydra.pdf) W. Wulf, et al. CACM 1974.
+
 </div>
 </div>
 

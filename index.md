@@ -276,11 +276,24 @@ largely outside the systems research community.
 </div>
 
 {% include syllabus_entry %}
-2/20/20
+<!-- 2/20/20 -->
+## Cloud Cluster Frameworks
+
+Term projects in 2009, Mesos and Spark, brought an essentially level of generality over
+the opensource, Hadoop, and commercial state of the art.  The "cluster level" systems
+design concepts were able to reach much further with the maturation of cluster
+technology and its "local level" systems building blocks.
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Apache Spark: A Unified Engine for
+Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pdf) M. Zaharia, et al., CACM 2016 (A short paper appears at HotCloud 2010).
+* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.usenix.org/conference/nsdi11/mesos-platform-fine-grained-resource-sharing-data-center) B. HJindman, NSDI 2011.
+
 </div>
 <div class="optional_reading" markdown="1">
+* [ A Case for NOW (Networks of Workstations)](https://drive.google.com/open?id=1ZVdNe7UddlPxyzo88nCpQEXC2SQqwdkY) T. Anderson et al., IEEE Micro 1995
+* [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) M. Zaharia, et al., NSDI 2012.
 </div>
 </div>
 

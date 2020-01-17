@@ -54,6 +54,7 @@ This meeting will be overview of the class and introduction of class members.
 </div>
 </div>
 
+{% include syllabus_entry %}
 
 <center>
 <h3>

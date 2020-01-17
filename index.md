@@ -13,7 +13,7 @@ layout: default
 
 *Catalog Description:* Continued graduate survey of large-scale systems for managing information and computation. Topics include basic performance measurement; extensibility, with attention to protection, security, and management of abstract data types; index structures, including support for concurrency and recovery; parallelism, including parallel architectures, query processing and scheduling; distributed data management, including distributed and mobile file systems and databases; distributed caching; large-scale data analysis and search. Homework assignments, exam, and term paper or project required.
 
-"Informal Description:* It provides a PhD-level study of
+*Informal Description:* It provides a PhD-level study of
 groundbreaking and influential research across the spectrum of
 operating systems, parallel and distributed systems, networked systems, storage
 systems, and security across the tiers from global scale, cloud,
@@ -111,25 +111,13 @@ better understood.
 
 This meeting will be overview of the class and introduction of class members.
 
-* Materials: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec01/01_ai-sys-intro.pptx)]
-
-<div class="reading">
-<div class="optional_reading" markdown="1">
-
-* [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
-* Timothy Roscoe's [writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) will also help you in the reviewing process.
-
-</div>
-</div>
-
 {% include syllabus_entry %}
-#1/23/20
 ## Student 3-minute "My Systems Research" presentations.
 Each class member will offer a 3-slide presentation of
 their current research focus.
 
 {% include syllabus_entry %}
-#1/28/20
+<!-- 1/28/20 -->
 ## Great Debate 1: OS Abstractions
 A fundamental question in systems is how system software creates
 effective abstractions enabling protected access to shared hardware
@@ -319,9 +307,14 @@ VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423
 </div>
 
 {% include syllabus_entry %}
-4/23/20
+How to be a good reviewer
+#4/23/20
 <div class="reading">
 <div class="optional_reading" markdown="1">
+
+* [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
+* Timothy Roscoe's [writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) will also help you in the reviewing process.
+
 </div>
 </div>
 
@@ -345,17 +338,6 @@ VMware Workstation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423
 <div class="optional_reading" markdown="1">
 </div>
 </div>
-
-{% include syllabus_entry %}
-
-<center>
-<h3>
-    <a href="https://forms.gle/tLcLeEzRzueFGUcG6">Submit Your Report Here</a>
-</h3>
-</center>
-
-You only need to submit the project once per team.  The write-up should discuss the problem formulation, related work, your approach, and your results.  
-
 
 </td>
 </tr>

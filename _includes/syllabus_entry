@@ -7,7 +7,7 @@
 
 
 {% assign odd_lecture = lecture_counter | modulo: 2 %}
-{% assign week = lecture_counter | divided_by: 2.0 | floor | plus: 0 %}
+{% assign week = lecture_counter | divided_by: 2.0 | floor | plus: 1 %}
 {% assign lecture_index = lecture_counter | minus: 1 %}
 {% assign lecture_date = dates[ lecture_index ] %}
 
@@ -21,7 +21,7 @@
     <center><a href="#week_{{ week }}" style="color:white">{{ week }}</a></center> 
     </td>
 {% else %}
-{% if odd_lecture == 0 %}
+{% if odd_lecture == 1 %}
 <tr style="border-top: solid thick;">
     <td rowspan="2" style="background:gray; color:white; font-size:16pt; vertical-align:middle;" id="week_{{week}}"> 
     <center><a href="#week_{{ week }}" style="color:white">{{ week }}</a></center> 

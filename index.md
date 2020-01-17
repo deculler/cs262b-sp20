@@ -51,17 +51,6 @@ with students assigned to the roles above.  A short report on the papers
 will be due at 8am of the day of class, so the instructor can read those
 and pull out important observations or gaps prior to class discussion.
 
-## Projects
-
-Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
-
-## Grading
-
-Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class.
-
-* **Projects:** _60%_
-* **Weekly Summaries:** _20%_
-* **Class Participation:** _20%_
 
 ## Course Syllabus
 
@@ -96,6 +85,7 @@ Grades will be largely based on class participation and projects.  In addition, 
 4/21/20
 4/23/20
 4/28/20
+4/30/20
 5/5/20
 5/7/20
 {% endcapture %}
@@ -182,8 +172,10 @@ need to report on them.
 </div>
 
 {% include syllabus_entry %}
-2/4/20
+<!-- 2/4/20 -->
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -191,6 +183,8 @@ need to report on them.
 {% include syllabus_entry %}
 2/6/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -198,6 +192,8 @@ need to report on them.
 {% include syllabus_entry %}
 2/11/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -205,6 +201,8 @@ need to report on them.
 {% include syllabus_entry %}
 2/13/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -212,6 +210,8 @@ need to report on them.
 {% include syllabus_entry %}
 2/18/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -219,6 +219,8 @@ need to report on them.
 {% include syllabus_entry %}
 2/20/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -226,6 +228,8 @@ need to report on them.
 {% include syllabus_entry %}
 2/25/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -233,6 +237,8 @@ need to report on them.
 {% include syllabus_entry %}
 2/27/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -240,6 +246,8 @@ need to report on them.
 {% include syllabus_entry %}
 3/3/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -247,6 +255,8 @@ need to report on them.
 {% include syllabus_entry %}
 3/5/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -254,6 +264,8 @@ need to report on them.
 {% include syllabus_entry %}
 3/10/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -261,6 +273,8 @@ need to report on them.
 {% include syllabus_entry %}
 3/12/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -268,6 +282,8 @@ need to report on them.
 {% include syllabus_entry %}
 3/17/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -275,6 +291,8 @@ need to report on them.
 {% include syllabus_entry %}
 3/19/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -297,6 +315,8 @@ need to report on them.
 {% include syllabus_entry %}
 4/2/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -304,6 +324,8 @@ need to report on them.
 {% include syllabus_entry %}
 4/7/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -311,6 +333,8 @@ need to report on them.
 {% include syllabus_entry %}
 4/9/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -318,6 +342,8 @@ need to report on them.
 {% include syllabus_entry %}
 4/14/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -325,6 +351,8 @@ need to report on them.
 {% include syllabus_entry %}
 4/16/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -332,6 +360,8 @@ need to report on them.
 {% include syllabus_entry %}
 4/21/20
 <div class="reading">
+<div class="required_reading" markdown="1">
+</div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
@@ -342,8 +372,12 @@ need to report on them.
 
 {% include syllabus_entry %}
 4/28/20
-<div class="reading">
-<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Mock PC Meeting
+4/30/20
 </div>
 </div>
 
@@ -421,3 +455,18 @@ $(".details").each(function(ind, elem) {
    })
 
 </script>
+
+
+## Projects
+
+Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
+
+## Grading
+
+Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class. If class chooses, we could
+include an individual assignment.
+
+* **Project:** _55%_
+* **Weekly Summaries:** _20%_
+* **Paper Leads:** _10%_
+* **Class Participation:** _15%_

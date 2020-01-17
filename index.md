@@ -298,11 +298,16 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-2/25/20
+<!-- 2/25/20 -->
+## Societal-Scale Graph Processing
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Pregel: A System for Large-Scale Graph Processing](https://kowshik.github.io/JPregel/pregel_paper.pdf) G. Malewicz, et al., SIGMOD 2010
+* [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf) J. Gonzalez, et al. OSDI 2012.
 </div>
 <div class="optional_reading" markdown="1">
+* [GraphX: Graph Processing in a Distributed Dataflow Framework](https://www.usenix.org/node/186217) J. Gonzales, et al., OSDI 2014
 </div>
 </div>
 

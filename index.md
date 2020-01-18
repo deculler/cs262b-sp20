@@ -329,16 +329,8 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 ## CS262B Alums - Entreprenurialism and Graduate Systems
 
 {% include syllabus_entry %}
-3/5/20
-<div class="reading">
-<div class="required_reading" markdown="1">
-</div>
-<div class="optional_reading" markdown="1">
-</div>
-</div>
+<!-- 3/5/20 -->
 
-{% include syllabus_entry %}
-<-- 3/10/20 -->
 ## VMs at the extremes
 
 <div class="reading">
@@ -347,6 +339,21 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 * [Cells: A Virtual Mobile Smartphone Architecture](https://www.cs.columbia.edu/~nieh/pubs/sosp2011_cells.pdf) J. Andrus, et al., SOSP 2011
 </div>
 <div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+<!-- 3/10/20 -->
+## SysML - Cloud-scale Machine Learning Systems
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [TensorFlow: A System for Large-Scalen Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) M. Abadi, et al., OSDI 2016.
+* [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf) P. Moritz, et al., OSDI 2018
+</div>
+<div class="optional_reading" markdown="1">
+* [Dataflow Architectures](https://drive.google.com/open?id=1HjjH2Re8kIZNrysSv9XCZKWWCCEa3u3K) Arvind and D. Cullers, Annual Reviews in Computer Science, 1986
+* [An Assessment of Multilisp: Lessons from Experience](https://drive.google.com/open?id=1IkI-QKjHdTLy9pSND5uaGT_3h3mOGVfn) R. Halstead,  International Journal of Parallel Programming, Vol. 15, No. 6, 1986.
 </div>
 </div>
 

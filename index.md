@@ -312,9 +312,13 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-2/27/20
+<!-- 2/27/20 -->
+## Debate: Post-Cloud Operating System Design
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter) S. Peter, et al., OSDI 2014
+* [I’m Not Dead Yet! The Role of the Operating System in a Kernel-Bypass Era](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/demikernel-hotos19.pdf) I. Zhang, et al., HotOS 2019
+* [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf) A. Baumann, HotOS 2019
 </div>
 <div class="optional_reading" markdown="1">
 </div>

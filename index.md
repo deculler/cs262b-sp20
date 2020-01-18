@@ -404,54 +404,66 @@ Class time available to work on projects.
 ## *Spring Break*
 
 {% include syllabus_entry %}
-3/31/20
-<div class="reading">
-<div class="optional_reading" markdown="1">
-</div>
-</div>
+<!-- 3/31/20 -->
+## Network Function Virtualization
 
-{% include syllabus_entry %}
-4/2/20
 <div class="reading">
 <div class="required_reading" markdown="1">
-</div>
-<div class="optional_reading" markdown="1">
-</div>
-</div>
-
-{% include syllabus_entry %}
-4/7/20
-<div class="reading">
-<div class="required_reading" markdown="1">
+* [OpenFlow: Enabling Innovation in Campus Networks](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf) N. McKeown, et al., SIGCOMM CC$ 2008.
+* [E2: A Framework for NFV Applications](https://people.eecs.berkeley.edu/~sylvia/cs268-2016/papers/e2.pdf) S. Palkar, et al., SOSP 2015
+* [NetBricks: Taking the V out of NFV](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda) A. Panda, et al., OSDI 2016.
 </div>
 <div class="optional_reading" markdown="1">
 </div>
 </div>
 
 {% include syllabus_entry %}
-4/9/20
+<!-- 4/2/20 -->
+## Secure Enclaves
 <div class="reading">
 <div class="required_reading" markdown="1">
-</div>
-<div class="optional_reading" markdown="1">
+* [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf) S. Arnautov, et al., OSDI 2016
+* [A Secure Environment for Untrusted Helper Applications
+(Confining the Wily Hacker)](https://www.usenix.org/legacy/publications/library/proceedings/sec96/full_papers/goldberg/goldberg.pdf) USENIX Security, 1996.
 </div>
 </div>
 
 {% include syllabus_entry %}
-4/14/20
+<!-- 4/7/20 -->
+## Time and Defensive Distributed System Design
+
 <div class="reading">
 <div class="required_reading" markdown="1">
-</div>
-<div class="optional_reading" markdown="1">
+* [Time, Clocks, and the nOrdering of Events in a Distributed System ](http://lamport.azurewebsites.net/pubs/time-clocks.pdf) L. Lamport
+* [Internet Time Synchronization: The Network Time Protocol](https://people.eecs.berkeley.edu/~culler/cs262b/papers/ntp-tocomm-91.pdf) David L. Mills, IEEE Transactions on Communications, 1991
 </div>
 </div>
 
 {% include syllabus_entry %}
-4/16/20
+<!-- 4/9/20 -->
+## Scaling Wide Area Storage
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf) J. COrbett, et al., OSDI 2012
+* [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf) R. Nishtala, et al., NSDI 2013
 </div>
 <div class="optional_reading" markdown="1">
+* [Scalable, distributed data structures for internet service construction](https://static.usenix.org/events/osdi00/full_papers/full_papers/gribble/gribble.pdf) S. Gribble, OSDI 2000.
+</div>
+</div>
+
+{% include syllabus_entry %}
+<!-- 4/14/20 -->
+## Key Results - Student Presentations
+
+
+{% include syllabus_entry %}
+<!-- 4/16/20 -->
+## IFC and IPC
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
 </div>
 </div>
 

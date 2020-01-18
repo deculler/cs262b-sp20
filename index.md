@@ -502,17 +502,10 @@ Class time available to work on projects.
 <!-- 4/30/20 -->
 
 {% include syllabus_entry %}
-5/5/20
 ## RR (OSDI Abstract due)
 
 {% include syllabus_entry %}
 ## 5/7/20 RR 
-
-<h3> xstuff
-</h3>
-
-Work on project
-
 
 </td>
 </tr>

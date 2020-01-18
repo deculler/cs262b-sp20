@@ -358,11 +358,17 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-3/12/20
+<!-- 3/12/20 -->
+## Serverless
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Serverless Computation with OpenLambda](https://www.usenix.org/node/196323) S. Hendrickson, et al., HotCloud 2016
+* [Occupy the Cloud: Distributed Computing for the 99%](https://shivaram.org/publications/pywren-socc17.pdf) E. Jonas, Et al., SoCC 2017.
 </div>
 <div class="optional_reading" markdown="1">
+* [Operating Systems must support GPU abstractions](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/hotos11-final.pdf) C. Rossbach, HotOS 2011.
+* [Will Serverless End the Dominance of Linux in the Cloud?](https://drive.google.com/open?id=1D624i1aTYgxXDPwTFggBrZYNnCFLz5Rg) R. Holler and D. Williams, HotOS 2017
 </div>
 </div>
 
@@ -376,7 +382,10 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-3/19/20
+<!-- 3/19/20 -->
+## *EECS Faculty Retreat*
+
+Class time available to work on projects.
 <div class="reading">
 <div class="required_reading" markdown="1">
 </div>

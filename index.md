@@ -325,13 +325,8 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-3/3/20
-<div class="reading">
-<div class="required_reading" markdown="1">
-</div>
-<div class="optional_reading" markdown="1">
-</div>
-</div>
+<-- 3/3/20 -->
+## CS262B Alums - Entreprenurialism and Graduate Systems
 
 {% include syllabus_entry %}
 3/5/20
@@ -343,9 +338,13 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-3/10/20
+<-- 3/10/20 -->
+## VMs at the extremes
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Difference Engine: Harnessing Memory Redundancy in Virtual Machines](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/gupta/gupta.pdf) D. Gupta, et al., OSDI 2008.
+* [Cells: A Virtual Mobile Smartphone Architecture](https://www.cs.columbia.edu/~nieh/pubs/sosp2011_cells.pdf) J. Andrus, et al., SOSP 2011
 </div>
 <div class="optional_reading" markdown="1">
 </div>

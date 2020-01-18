@@ -463,33 +463,43 @@ Class time available to work on projects.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-
+* [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf) W. Enck, OSDI 2010.
+* [Introduction to OpenBinder and Interview with Dianne Hackborn](https://www.osnews.com/story/13674/introduction-to-openbinder-and-interview-with-dianne-hackborn/)
 </div>
 </div>
 
 {% include syllabus_entry %}
-4/21/20
+<!-- 4/21/20 -->
+## Epidemic Routing and Gossip Protocols
+
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Epidemic Routing for Partially-Connected Ad Hoc Networks](http://issg.cs.duke.edu/epidemic/epidemic.pdf) A. Vahdat and D. Becker, Duke TR CS–2000–06, 2000.
+* [Trickle: A Self-Regulating Algorithm For Code Propagation And Maintenance In Wireless Sensor Networks](https://www.usenix.org/legacy/publications/library/proceedings/nsdi04/tech/levisTrickle/levisTrickle.pdf) P. Levis, et al., NSDI 2004 (Test of Time).
 </div>
 <div class="optional_reading" markdown="1">
+* [Directed diffusion: a scalable and robust communication paradigm for sensor networks](http://people.cs.uchicago.edu/~ravenben/classes/333/papers/ige00.pdf)
 </div>
 </div>
 
 {% include syllabus_entry %}
 ## How to be a good reviewer
-4/23/20
+<!-- 4/23/20 -->
 
 {% include syllabus_entry %}
-4/28/20
+<!-- 4/28/20 -->
+## Failure and Disaster Planning
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Failure Trends in a Large Disk Drive Population](https://www.usenix.org/legacy/event/fast07/tech/full_papers/pinheiro/pinheiro.pdf) E. Pinheiu\ro, et al. FAST 2007 (test of time)
+* [Designing for disasters ](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/keeton/keeton.pdf) K. Keeton, at al., FAST 2004 (test of time)
 </div>
 </div>
+
 
 {% include syllabus_entry %}
 ## Mock PC Meeting
-4/30/20
-</div>
-</div>
+<!-- 4/30/20 -->
 
 {% include syllabus_entry %}
 5/5/20

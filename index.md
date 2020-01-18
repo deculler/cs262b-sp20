@@ -325,12 +325,11 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-<-- 3/3/20 -->
+<!-- 3/3/20 -->
 ## CS262B Alums - Entreprenurialism and Graduate Systems
 
 {% include syllabus_entry %}
 <!-- 3/5/20 -->
-
 ## VMs at the extremes
 
 <div class="reading">
@@ -373,11 +372,14 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 
 {% include syllabus_entry %}
-3/17/20
+<!-- 3/17/20 -->
+## Planetary Scale Computing Systems Redux
+
 <div class="reading">
 <div class="required_reading" markdown="1">
-</div>
-<div class="optional_reading" markdown="1">
+* [Borg, Omega, and Kubernetes](https://queue.acm.org/detail.cfm?id=2898444) B. Burns et al., ACM Queue, March 2016.
+* [CAP Twelve Years Later: How the “Rules” Have Changed](https://drive.google.com/open?id=1GUPw0EdrEpin8cko2ikv6BMK6TPerG6Q) E. Brewer, IEEE Computer, 2012
+* [The Ninja architecture for robust Internet-scale systems and services](https://drive.google.com/open?id=1TO_9-Oa52nogzeZCcK2rSjPsvy7w--cx) S. Gribble, et al., Computer Networks, 2001
 </div>
 </div>
 

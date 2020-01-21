@@ -587,6 +587,26 @@ $(".details").each(function(ind, elem) {
 
 Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
 
+### Relevant Conferences (partial list)
+
+* [OSDI](https://www.usenix.org/conferences/byname/179)
+* [SOSP](http://www.sosp.org/)
+* [NSDI](https://www.usenix.org/conferences/byname/178)
+* [FAST](https://www.usenix.org/conferences/byname/146)
+* [Eurosys](https://dl.acm.org/conference/eurosys)
+* [SigComm](http://sigcomm.org/events/sigcomm-conference)
+* [SenSys](https://sensys.acm.org/)
+* [BuildSys](http://buildsys.acm.org/)
+* [ASPLOS](https://dl.acm.org/conference/asplos)
+* [CPSweek](https://dl.acm.org/conference/cpsweek)
+
+Useful references
+
+* [Usenix Test of Time Awards](https://www.usenix.org/conferences/test-of-time-awards)
+* [Usenix Best Paper Awards](https://www.usenix.org/conferences/best-papers)
+* [Analysis of Best Papers vs Ranking by Conf](https://www.aminer.cn/bestpaper)
+
+
 ## Grading
 
 Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class. If class chooses, we could

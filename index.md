@@ -131,8 +131,11 @@ papers - extensible kernels and virtual machines.
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Exterminate All Operating System Abstractions](https://people.eecs.berkeley.edu/~culler/cs262b/papers/hotos-exokernel.pdf) D. Engler and M. F. Kaashoekm, HotOS 1995
+[write up](https://docs.google.com/forms/d/e/1FAIpQLSdKnG0iq67wKHRMuG1hNKSXxL2-I9OFGT-3f68Yg7KNrwYbaw/viewform)
 * [Extensible Kernels are Leading OS Research Astray](https://drive.google.com/open?id=1AR5itsgFggt9zU1qLCQYboiPcE4RQca5) Druschel et al (HotOS-VI '97)
+[write up](https://docs.google.com/forms/d/e/1FAIpQLSeQaQcx9spv8BQB3CTyTRtHhEMiXTZuPj-aWiIPiMlzFU35IA/viewform)
 * [Hype and Virtue](https://www.usenix.org/legacy/events/hotos07/tech/full_papers/roscoe/roscoe.pdf) T. Roscoe, et al., HotOS 2007
+[write up](https://docs.google.com/forms/d/e/1FAIpQLSfUDAZlUZrl0TRraetigzMFmsHgbzfyk0cLkhoUEzOaeJIjBg/viewform)
 </div>
 
 <div class="optional_reading" markdown="1">
@@ -196,7 +199,7 @@ represented in the 90's by Scheduler Activations.
 
 {% include syllabus_entry %}
 <!-- 2/6/20 -->
-Debate: HLL role is OS Design
+## Debate 4: HLL role is OS Design
 
 Throughout the histiory of computing, operating systems have represented the
 most demanding sort of complex, concurrency intensive, high-reliability software.

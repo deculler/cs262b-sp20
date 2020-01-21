@@ -119,6 +119,8 @@ Time permitting, we will talk about system performance.
 Each class member will offer a 3-slide presentation of
 their current research focus.
 
+Add presentation or link [here](https://drive.google.com/drive/u/0/folders/1GlEyMcw3jaJW1CRlqvSIul6CBwXiAcob)
+
 Sign up for [debate roles](https://docs.google.com/spreadsheets/d/1PcQ2H55QAhTVq5RTp5_QLLnQC8cx6kSrm2je-nGox8s/edit?usp=sharing)
 
 {% include syllabus_entry %}

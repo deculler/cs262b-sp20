@@ -171,7 +171,7 @@ need to report on them.
 </div>
 
 <div class="optional_reading" markdown="1">
-* [On the Duality of Operating System Structures](https://drive.google.com/drive/u/0/folders/1zM0S1BrUv_G3IndzXSWNTkQ1rnR7mf1x) Lauer anbd Needham, SOSP 1978
+* [On the Duality of Operating System Structures](https://drive.google.com/open?id=1_D7wy-mqFrn8k-BoG7fiMa8lQEyoJ-Ao) Lauer anbd Needham, SOSP 1978
 * [Why Threads Are A Bad Idea (for most purposes)](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf) John Osterhout, presentation to
 1996 USENIX Technical Conference
 * [System Architecture Directions for Networked Sensors](https://pdos.csail.mit.edu/archive/6.097/readings/tinyos.pdf) J. Hill et al, ASPLOS 2000

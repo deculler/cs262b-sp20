@@ -193,8 +193,9 @@ represented in the 90's by Scheduler Activations.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [An Analysis of Linux Scalability to Many Cores](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf) Boyd-Wickizer, et al., OSDI 2010
+* [An Analysis of Linux Scalability to Many Cores](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf) Boyd-Wickizer, et al., OSDI 2010 [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSf2CD1IWEaJQyOHrD_IXa-EI75_NmULqvozZs7Uj8U8CE4RWA/viewform)
 * [The Multikernel: A new OS architecture for scalable multicore systems](https://www.sigops.org/s/conferences/sosp/2009/papers/baumann-sosp09.pdf) A. Baumann, et al, SOSP 2009.
+  [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSc9LwIOLLcRYl26YXYLTUAplvjbKbzsLz-furzaZRobhVkTyA/viewform)
 </div>
 <div class="optional_reading" markdown="1">
 * [Scheduler activations: effective kernel support for the user-level management of parallelism](https://homes.cs.washington.edu/~tom/pubs/sched_act.pdf) T. Andersen, et al, SOSP 91 and ACM ToC 92.

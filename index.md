@@ -166,8 +166,8 @@ need to report on them.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.sosp.org/2001/papers/welsh.pdf) M. Welsh, et al.SOSP 2001.
-* [Capriccio: Scalable Threads for Internet Services](http://capriccio.cs.berkeley.edu/pubs/capriccio-sosp-2003.pdf) R. von Behren, et al, SOSP 2003
+* [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.sosp.org/2001/papers/welsh.pdf) M. Welsh, et al.SOSP 2001. [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSe7jm_vdI3gjWHh-MjJb68Xvl2DOl2dE5f4U9hfc5deLbtFQA/viewform)
+* [Capriccio: Scalable Threads for Internet Services](http://capriccio.cs.berkeley.edu/pubs/capriccio-sosp-2003.pdf) R. von Behren, et al, SOSP 2003 [(write up)](https://docs.google.com/forms/d/e/1FAIpQLScpAoy8eGTSaOB8Td8ZdIeWlaclYSXf35qlzaFDbsI391dhtg/viewform)
 </div>
 
 <div class="optional_reading" markdown="1">

@@ -216,7 +216,9 @@ new systems languages, e.g, Go and Rust.
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Multiprogramming a 64 kB Computer Safely and Efficiently](https://sing.stanford.edu/site/publications/levy17-tock.pdf) A. Levy, et al. SOSP 2017.
+  [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSe6K4J7zDxLgFrCWZ0Q8b2VJ37FUid__Lzb9Hdo67lfKlVTcA/viewform)
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) C. Cutler, et al. OSDI 2018.
+  [(Write up)](https://docs.google.com/forms/d/e/1FAIpQLSeaF7Tl12zP5ySQJCWzmyz7V6f7vwezVGtAF9J_T66mxPighg/viewform)
 
 </div>
 <div class="optional_reading" markdown="1">

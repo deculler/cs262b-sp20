@@ -255,10 +255,12 @@ develop a more understandable and implementable replacement (Raft) were rejected
 three times before being published.  These readings overlap with CS262A; we will
 take the opportunity to explore overcoming rejection in the pubication process.
 
+[Here are the reviews from the 3 rejected submissions](https://drive.google.com/open?id=17bgKs6puIBTNwNlFZ6MMs2ZZn68C_wXW) of Raft, before being accepted and awarded Best Paper.
+
 <div class="reading">
-<div class="required_reading" markdown="1">
-* [In Search of an Understandable Consensus Algorithm](https://www.usenix.org/node/184041) D. Ongaro and J. Ousterhout, USENIX ATC 2014
 * [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) M. Burrows, OSDI 2006
+<div class="required_reading" markdown="1"> [(writeup)](https://docs.google.com/forms/d/e/1FAIpQLSdX2IYnv4sqFa83S4VoOHTOfIczkznC9MmwxuAbd6WYAqxAwQ/viewform)
+* [In Search of an Understandable Consensus Algorithm](https://www.usenix.org/node/184041) D. Ongaro and J. Ousterhout, USENIX ATC 2014 [(writeup)](https://docs.google.com/forms/d/e/1FAIpQLSd1zDMl6VvbY4CdB5atC8EmJ_gIZIicrOHf1Cr4s3yzn38exw/viewform) 
 </div>
 <div class="optional_reading" markdown="1">
 * [The Part-Time Parliment](https://www.microsoft.com/en-us/research/publication/part-time-parliament/) Leslie Lamport (Blog + ACM ToC 1998) ACM SIGOPS Hall of Fame Award 2012.

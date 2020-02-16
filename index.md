@@ -283,8 +283,11 @@ largely outside the systems research community.
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [WebOS: Operating system services for wide area applications](https://www.researchgate.net/profile/Amin_Vahdat2/publication/3765693_WebOS_Operating_System_Services_for_Wide_Area_Applications/links/0f31753872b04b5051000000/WebOS-Operating-System-Services-for-Wide-Area-Applications.pdf) A. Vahdat, et al., HPCA 1998
+  [(write up)][(https://docs.google.com/forms/d/e/1FAIpQLSfFa85iIhaw2l7-wnpKAxWhUB2oTAyGJqz2cR-77IdGGCKnaA/viewform)
 * [The Anatomy of the Grid: Enabling Scalable Virtual Organizations](https://arxiv.org/pdf/cs/0103025.pdf) International Journal of High Performance Computing Applications, 2001
+  [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSfFa85iIhaw2l7-wnpKAxWhUB2oTAyGJqz2cR-77IdGGCKnaA/viewform)
 * [Operating System Support for Planetary-Scale Network Services](https://www.usenix.org/legacy/publications/library/proceedings/nsdi04/tech/full_papers/bavier/bavier.pdf) A. Bavier, et al, NSDI 2004
+   [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSeZKIK7P7C8f51x5yy7WK6jUXyBNaku_YgDDx0Jwuk2jPiZIw/viewform)
 </div>
 </div>
 

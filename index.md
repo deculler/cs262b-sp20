@@ -302,10 +302,9 @@ technology and its "local level" systems building blocks.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
+* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.usenix.org/conference/nsdi11/mesos-platform-fine-grained-resource-sharing-data-center) B. HJindman, NSDI 2011. [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSc8UZL86Lngd1YJ8m6Gw8sjENTRUiohzvhkhZelBLPKJoUpBg/viewform)
 * [Apache Spark: A Unified Engine for
-Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pdf) M. Zaharia, et al., CACM 2016 (A short paper appears at HotCloud 2010).
-* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.usenix.org/conference/nsdi11/mesos-platform-fine-grained-resource-sharing-data-center) B. HJindman, NSDI 2011.
-
+Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pdf) M. Zaharia, et al., CACM 2016 (A short paper appears at HotCloud 2010).[(write up)](https://docs.google.com/forms/d/e/1FAIpQLScQIMcjUIfWANKNqrTU3hadkEwhfnV5uzBuHMd-jmsWN9KsSQ/viewform)
 </div>
 <div class="optional_reading" markdown="1">
 * [ A Case for NOW (Networks of Workstations)](https://drive.google.com/open?id=1ZVdNe7UddlPxyzo88nCpQEXC2SQqwdkY) T. Anderson et al., IEEE Micro 1995

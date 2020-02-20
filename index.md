@@ -593,7 +593,11 @@ $(".details").each(function(ind, elem) {
 
 ## Projects
 
-Detailed candidate project descriptions will be posted shortly.  However, students are encourage to find projects that relate to their ongoing research.
+[Project ideas](https://drive.google.com/open?id=1x1OSSYzCRd5PDv_4QprZ2n_Z2sU3ioEb5jx6G-kicR4)
+
+Please fill out the project proposal form by Sunday, March 1.
+
+[Project Proposal form](https://docs.google.com/forms/d/e/1FAIpQLSdYLFXRfxM_YF1XBhPloaLBnzMIxbRp9H5uTfVRj3usf1ESiA/viewform)
 
 ### Relevant Conferences (partial list)
 

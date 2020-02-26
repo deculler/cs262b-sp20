@@ -314,6 +314,17 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 
 {% include syllabus_entry %}
 <!-- 2/25/20 -->
+## NSDI
+
+{% include syllabus_entry %}
+<!-- 2/27/20 -->
+
+{% include syllabus_entry %}
+<!-- 3/3/20 -->
+## CS262B Alums - Entreprenurialism and Graduate Systems
+
+{% include syllabus_entry %}
+<!-- 3/5/20 -->
 ## Societal-Scale Graph Processing
 
 <div class="reading">
@@ -326,35 +337,6 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 </div>
 </div>
 
-{% include syllabus_entry %}
-<!-- 2/27/20 -->
-## Debate: Post-Cloud Operating System Design
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter) S. Peter, et al., OSDI 2014
-* [I’m Not Dead Yet! The Role of the Operating System in a Kernel-Bypass Era](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/demikernel-hotos19.pdf) I. Zhang, et al., HotOS 2019
-* [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf) A. Baumann, HotOS 2019
-</div>
-<div class="optional_reading" markdown="1">
-</div>
-</div>
-
-{% include syllabus_entry %}
-<!-- 3/3/20 -->
-## CS262B Alums - Entreprenurialism and Graduate Systems
-
-{% include syllabus_entry %}
-<!-- 3/5/20 -->
-## VMs at the extremes
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [Difference Engine: Harnessing Memory Redundancy in Virtual Machines](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/gupta/gupta.pdf) D. Gupta, et al., OSDI 2008.
-* [Cells: A Virtual Mobile Smartphone Architecture](https://www.cs.columbia.edu/~nieh/pubs/sosp2011_cells.pdf) J. Andrus, et al., SOSP 2011
-</div>
-<div class="optional_reading" markdown="1">
-</div>
-</div>
 
 {% include syllabus_entry %}
 <!-- 3/10/20 -->
@@ -420,6 +402,20 @@ Class time available to work on projects.
 
 {% include syllabus_entry %}
 <!-- 3/31/20 -->
+
+## Debate: Post-Cloud Operating System Design
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter) S. Peter, et al., OSDI 2014
+* [I’m Not Dead Yet! The Role of the Operating System in a Kernel-Bypass Era](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/demikernel-hotos19.pdf) I. Zhang, et al., HotOS 2019
+* [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf) A. Baumann, HotOS 2019
+</div>
+<div class="optional_reading" markdown="1">
+</div>
+</div>
+
+{% include syllabus_entry %}
+<!-- 4/2/20 -->
 ## Network Function Virtualization
 
 <div class="reading">
@@ -429,17 +425,6 @@ Class time available to work on projects.
 * [NetBricks: Taking the V out of NFV](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda) A. Panda, et al., OSDI 2016.
 </div>
 <div class="optional_reading" markdown="1">
-</div>
-</div>
-
-{% include syllabus_entry %}
-<!-- 4/2/20 -->
-## Secure Enclaves
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf) S. Arnautov, et al., OSDI 2016
-* [A Secure Environment for Untrusted Helper Applications
-(Confining the Wily Hacker)](https://www.usenix.org/legacy/publications/library/proceedings/sec96/full_papers/goldberg/goldberg.pdf) USENIX Security, 1996.
 </div>
 </div>
 

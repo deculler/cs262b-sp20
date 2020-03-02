@@ -431,17 +431,6 @@ Class time available to work on projects.
 
 {% include syllabus_entry %}
 <!-- 4/7/20 -->
-## Time and Defensive Distributed System Design
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [Time, Clocks, and the nOrdering of Events in a Distributed System ](http://lamport.azurewebsites.net/pubs/time-clocks.pdf) L. Lamport
-* [Internet Time Synchronization: The Network Time Protocol](https://people.eecs.berkeley.edu/~culler/cs262b/papers/ntp-tocomm-91.pdf) David L. Mills, IEEE Transactions on Communications, 1991
-</div>
-</div>
-
-{% include syllabus_entry %}
-<!-- 4/9/20 -->
 ## Scaling Wide Area Storage
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -450,6 +439,17 @@ Class time available to work on projects.
 </div>
 <div class="optional_reading" markdown="1">
 * [Scalable, distributed data structures for internet service construction](https://static.usenix.org/events/osdi00/full_papers/full_papers/gribble/gribble.pdf) S. Gribble, OSDI 2000.
+</div>
+</div>
+
+{% include syllabus_entry %}
+<!-- 4/9/20 -->
+## Time and Defensive Distributed System Design
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Time, Clocks, and the nOrdering of Events in a Distributed System ](http://lamport.azurewebsites.net/pubs/time-clocks.pdf) L. Lamport
+* [Internet Time Synchronization: The Network Time Protocol](https://people.eecs.berkeley.edu/~culler/cs262b/papers/ntp-tocomm-91.pdf) David L. Mills, IEEE Transactions on Communications, 1991
 </div>
 </div>
 

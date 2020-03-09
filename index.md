@@ -345,8 +345,8 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TensorFlow: A System for Large-Scalen Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) M. Abadi, et al., OSDI 2016.
-* [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf) P. Moritz, et al., OSDI 2018
+* [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) M. Abadi, et al., OSDI 2016. [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSdodSU7ERq-YHOZRm43nC_-wRdFZCTW2QashKvrY6Gf6BeWIA/viewform)
+* [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf) P. Moritz, et al., OSDI 2018 [(write up)](https://docs.google.com/forms/d/e/1FAIpQLScTMU3OjH1wWen3sbCjmv6HDaMhPqheu65FdqhHdBrn8qOfjQ/viewform)
 </div>
 <div class="optional_reading" markdown="1">
 * [Dataflow Architectures](https://drive.google.com/open?id=1HjjH2Re8kIZNrysSv9XCZKWWCCEa3u3K) Arvind and D. Cullers, Annual Reviews in Computer Science, 1986
@@ -360,8 +360,8 @@ Big Data Processing](https://people.eecs.berkeley.edu/~alig/papers/spark-cacm.pd
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Serverless Computation with OpenLambda](https://www.usenix.org/node/196323) S. Hendrickson, et al., HotCloud 2016
-* [Occupy the Cloud: Distributed Computing for the 99%](https://shivaram.org/publications/pywren-socc17.pdf) E. Jonas, Et al., SoCC 2017.
+* [Serverless Computation with OpenLambda](https://www.usenix.org/node/196323) S. Hendrickson, et al., HotCloud 2016 [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSe8SmMMDkeuTcN6vfA9RiHyfItKGIdjO9xzNKz6uof9eIp9Bw/viewform )
+* [Occupy the Cloud: Distributed Computing for the 99%](https://shivaram.org/publications/pywren-socc17.pdf) E. Jonas, Et al., SoCC 2017. [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSeENs5fVfrVt10bQW8ftYZuRtB96t-V2ZBX0YLO7wi-1flQeQ/viewform)
 </div>
 <div class="optional_reading" markdown="1">
 * [Operating Systems must support GPU abstractions](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/hotos11-final.pdf) C. Rossbach, HotOS 2011.

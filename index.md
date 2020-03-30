@@ -407,9 +407,9 @@ Class time available to work on projects.
 ## Debate: Post-Cloud Operating System Design
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter) S. Peter, et al., OSDI 2014 [Write up](https://docs.google.com/forms/d/e/1FAIpQLSdnZZcuT1UCOFlCCBvE-jik5_-sQnZ72X6xJ2IXlimWa_6tBQ/viewform)
-* [I’m Not Dead Yet! The Role of the Operating System in a Kernel-Bypass Era](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/demikernel-hotos19.pdf) I. Zhang, et al., HotOS 2019 [Write up](https://docs.google.com/forms/d/e/1FAIpQLSdbzRlGLPKndOX3SRPTQM72tsFnAMzg-YJ8gJRSOVD2yhbIHg/viewform)
-* [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf) A. Baumann, HotOS 2019 [Write up](https://docs.google.com/forms/d/e/1FAIpQLScMatuVoGRB3dkcSG6feNjvU9phwrP6pZx-52MAMY-G9lpHOw/viewform)
+* [Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter) S. Peter, et al., OSDI 2014 [(Write up)](https://docs.google.com/forms/d/e/1FAIpQLSdnZZcuT1UCOFlCCBvE-jik5_-sQnZ72X6xJ2IXlimWa_6tBQ/viewform)
+* [I’m Not Dead Yet! The Role of the Operating System in a Kernel-Bypass Era](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/demikernel-hotos19.pdf) I. Zhang, et al., HotOS 2019 [(Write up)](https://docs.google.com/forms/d/e/1FAIpQLSdbzRlGLPKndOX3SRPTQM72tsFnAMzg-YJ8gJRSOVD2yhbIHg/viewform)
+* [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf) A. Baumann, HotOS 2019 [(Write up)](https://docs.google.com/forms/d/e/1FAIpQLScMatuVoGRB3dkcSG6feNjvU9phwrP6pZx-52MAMY-G9lpHOw/viewform)
 </div>
 <div class="optional_reading" markdown="1">
 </div>

@@ -434,7 +434,7 @@ Class time available to work on projects.
 ## IFC and IPC
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf) W. Enck, OSDI 2010.
+* [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf) W. Enck, OSDI 2010. [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSdGpVH_ZwOfVIbaD2gLi0cIKEZZJjJVMAa9RBdOK22UGISSQA/viewform)
 * [Introduction to OpenBinder and Interview with Dianne Hackborn](https://www.osnews.com/story/13674/introduction-to-openbinder-and-interview-with-dianne-hackborn/)
 </div>
 </div>

@@ -576,6 +576,13 @@ Please fill out the project proposal form by Sunday, March 1.
 
 [Project Proposal form](https://docs.google.com/forms/d/e/1FAIpQLSdYLFXRfxM_YF1XBhPloaLBnzMIxbRp9H5uTfVRj3usf1ESiA/viewform)
 
+* 4/16/20 Key Results 4-min presentations
+* 4/29/20 5pm Drafts submitted for Mock PC Review
+* 4/30/20 Reviews Assigned - Each reads 5 papers, each gets 5 reviews
+* 5/5/20  Mock PC Meeting
+* 5/12/20 5pm Final Reports due
+
+
 ### Relevant Conferences (partial list)
 
 * [OSDI](https://www.usenix.org/conferences/byname/179)

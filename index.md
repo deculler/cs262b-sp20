@@ -421,8 +421,8 @@ Class time available to work on projects.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [OpenFlow: Enabling Innovation in Campus Networks](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf) N. McKeown, et al., SIGCOMM CC$ 2008.
-* [NetBricks: Taking the V out of NFV](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda) A. Panda, et al., OSDI 2016.
+* [OpenFlow: Enabling Innovation in Campus Networks](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf) N. McKeown, et al., SIGCOMM CC$ 2008. [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSdLU7kjcQNMPhyACZmk86VcMXytXLR8fCrFbSmNHJCceRj6qg/viewform)
+* [NetBricks: Taking the V out of NFV](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda) A. Panda, et al., OSDI 2016.[(Write up)](https://docs.google.com/forms/d/e/1FAIpQLSeajUHkbEFgvZKvMsO43LqgbCy1tFxvg9mf-APxO8fZ74oHqw/viewform)
 </div>
 <div class="optional_reading" markdown="1">
 * [E2: A Framework for NFV Applications](https://people.eecs.berkeley.edu/~sylvia/cs268-2016/papers/e2.pdf) S. Palkar, et al., SOSP 2015

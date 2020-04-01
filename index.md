@@ -422,46 +422,16 @@ Class time available to work on projects.
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [OpenFlow: Enabling Innovation in Campus Networks](http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf) N. McKeown, et al., SIGCOMM CC$ 2008.
-* [E2: A Framework for NFV Applications](https://people.eecs.berkeley.edu/~sylvia/cs268-2016/papers/e2.pdf) S. Palkar, et al., SOSP 2015
 * [NetBricks: Taking the V out of NFV](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda) A. Panda, et al., OSDI 2016.
 </div>
 <div class="optional_reading" markdown="1">
+* [E2: A Framework for NFV Applications](https://people.eecs.berkeley.edu/~sylvia/cs268-2016/papers/e2.pdf) S. Palkar, et al., SOSP 2015
 </div>
 </div>
 
 {% include syllabus_entry %}
 <!-- 4/7/20 -->
-## Scaling Wide Area Storage
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf) J. COrbett, et al., OSDI 2012
-* [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf) R. Nishtala, et al., NSDI 2013
-</div>
-<div class="optional_reading" markdown="1">
-* [Scalable, distributed data structures for internet service construction](https://static.usenix.org/events/osdi00/full_papers/full_papers/gribble/gribble.pdf) S. Gribble, OSDI 2000.
-</div>
-</div>
-
-{% include syllabus_entry %}
-<!-- 4/9/20 -->
-## Time and Defensive Distributed System Design
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [Time, Clocks, and the nOrdering of Events in a Distributed System ](http://lamport.azurewebsites.net/pubs/time-clocks.pdf) L. Lamport
-* [Internet Time Synchronization: The Network Time Protocol](https://people.eecs.berkeley.edu/~culler/cs262b/papers/ntp-tocomm-91.pdf) David L. Mills, IEEE Transactions on Communications, 1991
-</div>
-</div>
-
-{% include syllabus_entry %}
-<!-- 4/14/20 -->
-## Key Results - Student Presentations
-
-
-{% include syllabus_entry %}
-<!-- 4/16/20 -->
 ## IFC and IPC
-
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Enck.pdf) W. Enck, OSDI 2010.
@@ -469,8 +439,20 @@ Class time available to work on projects.
 </div>
 </div>
 
+
 {% include syllabus_entry %}
-<!-- 4/21/20 -->
+<!-- 4/9/20 -->
+## Time and Defensive Distributed System Design
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Time, Clocks, and the Ordering of Events in a Distributed System ](http://lamport.azurewebsites.net/pubs/time-clocks.pdf) L. Lamport
+* [Internet Time Synchronization: The Network Time Protocol](https://people.eecs.berkeley.edu/~culler/cs262b/papers/ntp-tocomm-91.pdf) David L. Mills, IEEE Transactions on Communications, 1991
+</div>
+</div>
+
+{% include syllabus_entry %}
+<!-- 4/14/20 -->
 ## Epidemic Routing and Gossip Protocols
 
 <div class="reading">
@@ -482,6 +464,14 @@ Class time available to work on projects.
 * [Directed diffusion: a scalable and robust communication paradigm for sensor networks](http://people.cs.uchicago.edu/~ravenben/classes/333/papers/ige00.pdf)
 </div>
 </div>
+
+{% include syllabus_entry %}
+<!-- 4/16/20 -->
+## Key Results - Student Presentations
+
+{% include syllabus_entry %}
+<!-- 4/21/20 -->
+## Optional Project Discussions 
 
 {% include syllabus_entry %}
 ## How to be a good reviewer
@@ -499,11 +489,14 @@ Class time available to work on projects.
 
 
 {% include syllabus_entry %}
-## Mock PC Meeting
 <!-- 4/30/20 -->
+## No Class
+
+Draft Reports due 4/29.  Distributed for review
 
 {% include syllabus_entry %}
-## RR (OSDI Abstract due)
+<!-- 5/5/20 -->
+## RR Mock PC Meeting (OSDI Abstract due)
 
 {% include syllabus_entry %}
 ## 5/7/20 RR 
@@ -512,8 +505,6 @@ Class time available to work on projects.
 </tr>
 </tbody>
 </table>
-
-
 
 <script type="text/javascript">
 
@@ -614,3 +605,16 @@ include an individual assignment.
 * **Weekly Summaries:** _20%_
 * **Paper Leads:** _10%_
 * **Class Participation:** _15%_
+
+### Removed
+
+## Scaling Wide Area Storage
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf) J. COrbett, et al., OSDI 2012
+* [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf) R. Nishtala, et al., NSDI 2013
+</div>
+<div class="optional_reading" markdown="1">
+* [Scalable, distributed data structures for internet service construction](https://static.usenix.org/events/osdi00/full_papers/full_papers/gribble/gribble.pdf) S. Gribble, OSDI 2000.
+</div>
+</div>

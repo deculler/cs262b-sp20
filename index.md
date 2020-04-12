@@ -457,8 +457,8 @@ Class time available to work on projects.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Epidemic Routing for Partially-Connected Ad Hoc Networks](http://issg.cs.duke.edu/epidemic/epidemic.pdf) A. Vahdat and D. Becker, Duke TR CS–2000–06, 2000.
-* [Trickle: A Self-Regulating Algorithm For Code Propagation And Maintenance In Wireless Sensor Networks](https://www.usenix.org/legacy/publications/library/proceedings/nsdi04/tech/levisTrickle/levisTrickle.pdf) P. Levis, et al., NSDI 2004 (Test of Time).
+* [Epidemic Routing for Partially-Connected Ad Hoc Networks](http://issg.cs.duke.edu/epidemic/epidemic.pdf) A. Vahdat and D. Becker, Duke TR CS–2000–06, 2000. [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSc2CE8GL8h99IiaXBPQSnQPA17VLgmT7L3oKwbK5fAb-OLWhg/viewform)
+* [Trickle: A Self-Regulating Algorithm For Code Propagation And Maintenance In Wireless Sensor Networks](https://www.usenix.org/legacy/publications/library/proceedings/nsdi04/tech/levisTrickle/levisTrickle.pdf) P. Levis, et al., NSDI 2004 (Test of Time). [(write up)](https://docs.google.com/forms/d/e/1FAIpQLSdFaOVSXcn-SjKyDxs-y_1DmYTHD7KtT9sQK5iwNbk4fxKq2Q/viewform)
 </div>
 <div class="optional_reading" markdown="1">
 * [Directed diffusion: a scalable and robust communication paradigm for sensor networks](http://people.cs.uchicago.edu/~ravenben/classes/333/papers/ige00.pdf)

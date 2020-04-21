@@ -476,6 +476,8 @@ Class time available to work on projects.
 {% include syllabus_entry %}
 ## How to be a good reviewer
 <!-- 4/23/20 -->
+You do not need to do write-ups, but please read these.  We will have a discussion about the PC review process, what to
+expect from reviewers, and what expectations you should live up to when you take on that role.  The optional is quite useful too.
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Writing reviews for systems conferences, Mothy Roscoe](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)

@@ -476,6 +476,15 @@ Class time available to work on projects.
 {% include syllabus_entry %}
 ## How to be a good reviewer
 <!-- 4/23/20 -->
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Writing reviews for systems conferences, Mothy Roscoe](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+* [The Task of the Referee, A. J. Smith, 1990](https://www.big.tuwien.ac.at/files/teaching/guidelines/task_of_the_referee.pdf)
+</div>
+<div class="optional_reading" markdown="1">
+* [How not to Review a Paper](https://drive.google.com/open?id=1TRb_nUH5dognFTevlVKWoOu13WXYkmwe)
+</div>
+</div>
 
 {% include syllabus_entry %}
 <!-- 4/28/20 -->

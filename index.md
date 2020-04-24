@@ -494,7 +494,7 @@ expect from reviewers, and what expectations you should live up to when you take
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Failure Trends in a Large Disk Drive Population](https://www.usenix.org/legacy/event/fast07/tech/full_papers/pinheiro/pinheiro.pdf) E. Pinheiu\ro, et al. FAST 2007 (test of time) [(Write up)](https://docs.google.com/forms/d/e/1FAIpQLSdD6_DWYyS61eS88-_tB950Bq0c4rlt_B3qouuJWD5c3xse5Q/viewform)
-* [Designing for disasters ](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/keeton/keeton.pdf) K. Keeton, at al., FAST 2004 (test of time) [(Write up)](https://docs.google.com/forms/d/e/1FAIpQLSdD6_DWYyS61eS88-_tB950Bq0c4rlt_B3qouuJWD5c3xse5Q/viewform)
+* [Designing for disasters ](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/keeton/keeton.pdf) K. Keeton, at al., FAST 2004 (test of time) [(Write up)](https://docs.google.com/forms/d/e/1FAIpQLSdPk16FsCe2ekAHImmfGnNGnQ7thDDRyd5vE3S58d1rxhF8ZQ/viewform)
 </div>
 </div>
 

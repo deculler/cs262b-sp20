@@ -490,6 +490,13 @@ expect from reviewers, and what expectations you should live up to when you take
 
 {% include syllabus_entry %}
 <!-- 4/28/20 -->
+## No Class
+
+Draft Reports due 4/29. 
+
+
+{% include syllabus_entry %}
+<!-- 4/30/20 -->
 ## Failure and Disaster Planning
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -498,16 +505,11 @@ expect from reviewers, and what expectations you should live up to when you take
 </div>
 </div>
 
-
-{% include syllabus_entry %}
-<!-- 4/30/20 -->
-## No Class
-
-Draft Reports due 4/29.  Distributed for review
+Draft reports distributed for review
 
 {% include syllabus_entry %}
 <!-- 5/5/20 -->
-## RR Mock PC Meeting (OSDI Abstract due)
+## RR Mock PC Meeting 
 
 {% include syllabus_entry %}
 ## 5/7/20 RR 

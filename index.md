@@ -204,7 +204,7 @@ represented in the 90's by Scheduler Activations.
 
 {% include syllabus_entry %}
 <!-- 2/6/20 -->
-## Debate 4: HLL role is OS Design
+## Debate 4: HLL role in OS Design
 
 Throughout the histiory of computing, operating systems have represented the
 most demanding sort of complex, concurrency intensive, high-reliability software.
@@ -236,7 +236,7 @@ rediscovered over a new storage model while handling unreliability.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) J. Deand and S. Ghemawat, OSDI 2004
+* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) J. Dean and S. Ghemawat, OSDI 2004
 * [Fast key-value stores:
 An idea whose time has come and gone](https://research.google/pubs/pub48030/) A. Adya, et al., HotOS 2019.
 </div>
